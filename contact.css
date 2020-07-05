@@ -25,16 +25,16 @@ form{
     width: 410px;
 }
 .ipt-name{
-    background-image: url('images/user.png');
+    background-image: url('https://raw.githubusercontent.com/JoAlv92/eltartaroweb/master/user.png');
 }
 .ipt-email{
-    background-image: url('images/mail.png');
+    background-image: url('https://raw.githubusercontent.com/JoAlv92/eltartaroweb/master/mail.png');
 }
 .ipt-phone{
-    background-image: url('images/smartphone.png');
+    background-image: url('https://raw.githubusercontent.com/JoAlv92/eltartaroweb/master/smartphone.png');
 }
 .txt-message{
-    background-image: url('images/message.png');
+    background-image: url('https://raw.githubusercontent.com/JoAlv92/eltartaroweb/master/message.png');
     background-position: left top;
     height: 120px;
 }
