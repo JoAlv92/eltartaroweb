@@ -1,0 +1,99 @@
+.obl-form{
+    color: #FF0000;
+}
+form{
+    background-color: #F9F9F9;
+    border-radius: 2px 2px 2px 2px;
+    box-shadow: 0px 0px 3px #333333;
+    height: auto;
+    margin: 0 auto 15px;
+    overflow: hidden;
+    padding: 10px 10px 10px 10px;
+    width: 470px;
+}
+.ipt-name, .ipt-email, .ipt-phone, .txt-message{
+    background-position: left;
+    background-repeat: no-repeat;
+    background-size: 40px 40px;
+    border-color: transparent;
+    border-radius: 2px 2px 2px 2px;
+    box-shadow: 0px 0px 2px #333333;
+    display: block;
+    font-size: 20px;
+    margin: 0px 0px 20px 0px;
+    padding: 10px 10px 10px 45px;
+    width: 410px;
+}
+.ipt-name{
+    background-image: url('images/user.png');
+}
+.ipt-email{
+    background-image: url('images/mail.png');
+}
+.ipt-phone{
+    background-image: url('images/smartphone.png');
+}
+.txt-message{
+    background-image: url('images/message.png');
+    background-position: left top;
+    height: 120px;
+}
+.send, .clear{
+    background-color: #F0F0F0;
+    border-color: transparent;
+    border-radius: 2px 2px 2px 2px;
+    box-shadow: 0px 0px 3px #333333;
+    color: #333333;
+    cursor: pointer;
+    display: inline-block;
+    font-size: 20px;
+    height: 40px;
+    margin: 0 -65px 0px 70px;
+    width: 150px;
+}
+.clear:hover{
+    box-shadow: 0px 0px 5px #333333;
+}
+.send:hover{
+    box-shadow: 0px 0px 5px #333333;
+}
+.cont-more{
+    height: auto;
+    margin: 7px auto;
+    overflow: hidden;
+    padding: 5px;
+    width: 561px;
+}
+.more-contacts{
+    background-color: #F9F9F9;
+    border-radius: 2px;
+    box-shadow: 0 0 3px #333333;
+    cursor: default;
+    display: inline-block;
+    height: auto;
+    margin: 20px 0 0;
+    overflow: hidden;
+    padding: 5px;
+    text-align: center;
+    width: 265px;
+}
+.more-contacts:hover{
+    box-shadow: 0 0 5px #333333;
+}
+.locate{
+    background-color: #F9F9F9;
+    border-radius: 2px;
+    box-shadow: 0 0 3px #333333;
+    cursor: default;
+    display: inline-block;
+    float: left;
+    height: auto;
+    margin: 15px 0 0;
+    overflow: hidden;
+    padding: 5px;
+    text-align: center;
+    width: 551px;
+}
+.locate:hover{
+    box-shadow: 0 0 5px #333333;
+}
